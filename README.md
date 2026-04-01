@@ -6,18 +6,30 @@ Echo Bot is a Telegram chatbot powered by OpenAI’s GPT model that enables real
 
 Built using:
 ⚡ aiogram (Telegram Bot Framework)
+
 🧠 OpenAI GPT API
+
 🔐 Environment-based configuration
+
 🚀 Features
+
 💬 AI-Powered Conversations
+
 Responds intelligently using OpenAI’s GPT model
+
 🧠 Context Awareness
+
 Maintains conversation history for better responses
+
 🧹 Clear Chat Memory
+
 Reset conversation context with a command
+
 📖 Help Command
 Built-in guide for users
+
 ⚡ Fast Async Handling
+
 Uses aiogram for efficient asynchronous message processing
 
 🛠️ Tech Stack:
